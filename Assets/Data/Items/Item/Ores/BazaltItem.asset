@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd4e64689c3fa134db8d9255a3dfe65e, type: 3}
+  m_Name: BazaltItem
+  m_EditorClassIdentifier: 
+  Name: Bazalt
+  Icon: {fileID: 21300000, guid: f0a1f6a628ee86b4d9c007acef5503b4, type: 3}
+  Level: 1
+  CanStack: 1
+  StackCapacity: 64
+  CanBuy: 0
+  BuyPrice: 0
+  BuyCount: 0
+  CanSell: 0
+  SellPrice: 0
+  CanExtract: 1
+  RespawnTime: 40
+  ResourceCount: 8
+  ResourceExp: 10
+  ExtractToolType: 1

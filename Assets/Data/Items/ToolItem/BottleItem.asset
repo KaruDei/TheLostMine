@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781171404e029c74f942dcedae7c9390, type: 3}
+  m_Name: BottleItem
+  m_EditorClassIdentifier: 
+  Name: Bottle
+  Icon: {fileID: 21300000, guid: 29f05d00b80b0104a88e885e55cd869e, type: 3}
+  Level: 1
+  CanStack: 0
+  StackCapacity: 1
+  CanBuy: 1
+  BuyPrice: 400
+  BuyCount: 1
+  CanSell: 0
+  SellPrice: 0
+  ToolType: 2
+  CanBroken: 0
+  ToolStrength: 1
+  CanFill: 1
+  EmpySprite: {fileID: 21300000, guid: 29f05d00b80b0104a88e885e55cd869e, type: 3}
+  FillSprite: {fileID: 21300000, guid: ce68d65c3b7ae8d4486dbe0751fd54ae, type: 3}

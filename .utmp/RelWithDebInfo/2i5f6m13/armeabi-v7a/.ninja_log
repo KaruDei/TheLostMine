@@ -1,0 +1,11 @@
+# ninja log v5
+24	159	7370210732834655	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6efc442c879d16d2
+160	348	7370210734350195	E:/Unity Projects/The Lost Mine/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2i5f6m13/obj/armeabi-v7a/libswappywrapper.so	8791c2ba5e3fe12
+4	773	7370210738951589	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c7ab7cae66f1c37c
+13	819	7370210739391824	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f3d5b3a9d1eb1dac
+16	835	7370210739567288	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f61d4d0f6dc97f0c
+20	931	7370210740520546	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	aa5e3b43a1cd34dd
+7	932	7370210740545593	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	687325fbd0470a46
+10	1102	7370210742264090	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	82d40fd14de8d669
+1	1176	7370210742982083	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9fbf9114f3b2b613
+1176	1314	7370210744063919	E:/Unity Projects/The Lost Mine/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2i5f6m13/obj/armeabi-v7a/libgame.so	6a0defe01aef6918
